@@ -16,17 +16,19 @@ The script uses **Python + Selenium WebDriver** to automate and validate the log
 - Python 3.x
 - Selenium WebDriver
 - ChromeDriver
+ 
 
-## Screenshots  
+## Screenshots
 
 ### ✅ Valid Login Test  
-![Valid Login](screenshots/Successful_Login.png.png)  
+![Valid Login](screenshots/Successful_Login.png)
 
 ### ❌ Invalid Login Test  
-![Invalid Login](screenshots/Invalid_login.png.png)  
+![Invalid Login](screenshots/Invalid_login.png)
 
-### ⚠️ All Test Cases Result
-![Empty Login](screenshots/Successful_Login.png.png)  
+### ⚠️ All Test Cases Result  
+![All Test Cases](screenshots/All_test_cases.png)
+
 
 
 ## ▶️ How to Run
